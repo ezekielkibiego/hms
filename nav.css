@@ -29,13 +29,6 @@ nav ul li a:hover {
     background-color:black;
 }
 
-body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    margin: 0;
-}
-
 .footer {
     background-color:#5b5b78;
     color: white;
