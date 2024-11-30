@@ -9,6 +9,10 @@ li img{
 li p{
     margin-left: 15px;
 }
-#maternal{
+
+#Dialysis{
     align-content: center;
+}
+#Forpatient{
+    float: left;
 }
